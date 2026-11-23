@@ -1,0 +1,10 @@
+Meridian GitHub Pages publishing instructions
+
+1. Visit https://github.com/new and create PUBLIC repository: meridian-treasury
+2. Extract this ZIP. Upload THE CONTENTS of the extracted Meridian_GitHub_Pages_Ready folder (not the folder itself) into the repository root via Add file > Upload files.
+3. GitHub repository > Settings > Pages > Source: Deploy from a branch > Branch: main > Folder: /(root) > Save.
+4. Your URL: https://YOUR-USERNAME.github.io/meridian-treasury/
+5. Check demo, Excel download, and PDFs without being logged in.
+6. Add final URL to resume and LinkedIn.
+
+Static site only. Public, unaffiliated educational demo. Nothing here contains personal banking data.
